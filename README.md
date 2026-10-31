@@ -108,5 +108,5 @@ There is nothing to overthrow. There are only masters to make unnecessary.
 ---
 
 <p align="center">
-  <sub>Initiated by <a href="https://github.com/yannsouetre">Yann Souetre</a>, October 2026 · Released under <a href="LICENSE">CC BY 4.0</a> · Fork, translate, argue.</sub>
+  <sub>Initiated by <a href="https://github.com/yannsouetre">Yann S.</a>, October 2026 · Released under <a href="LICENSE">CC BY 4.0</a> · Fork, translate, argue.<br>Written with Claude (Anthropic); the positions, choices and cuts are the initiator's own.</sub>
 </p>

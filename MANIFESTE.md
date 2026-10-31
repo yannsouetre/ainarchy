@@ -108,5 +108,5 @@ Il n'y a rien à renverser. Il n'y a que des maîtres à rendre inutiles.
 ---
 
 <p align="center">
-  <sub>Initié par <a href="https://github.com/yannsouetre">Yann Souetre</a>, octobre 2026 · Publié sous <a href="LICENSE">CC BY 4.0</a> · Forkez, traduisez, contestez.</sub>
+  <sub>Initié par <a href="https://github.com/yannsouetre">Yann S.</a>, octobre 2026 · Publié sous <a href="LICENSE">CC BY 4.0</a> · Forkez, traduisez, contestez.<br>Rédigé avec Claude (Anthropic) ; les positions, les choix et les coupes sont ceux de l'initiateur.</sub>
 </p>
