@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://ainarchy.substack.com/p/the-ainarchist-manifesto">Lire sur Substack</a> ·
   <a href="README.md">🇬🇧 English version</a> ·
   <a href="#vii-ce-que-nous-ferons">Forkez-le</a> ·
   <a href="LICENSE">CC BY 4.0</a>
