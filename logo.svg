@@ -6,7 +6,7 @@
     <!-- the A -->
     <path d="M 72 470 L 196 48 L 320 470"/>
     <!-- the I -->
-    <path d="M 404 56 L 404 468"/>
+    <path d="M 388 56 L 388 468"/>
     <!-- the crossbar, running through A and I like the classic circle-A -->
     <path d="M 60 336 L 460 336"/>
   </g>
