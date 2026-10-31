@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>AInarchy</title>
+  <g fill="none" stroke="#111" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+    <!-- the circle -->
+    <circle cx="256" cy="268" r="192"/>
+    <!-- the A -->
+    <path d="M 72 470 L 196 48 L 320 470"/>
+    <!-- the I -->
+    <path d="M 404 56 L 404 468"/>
+    <!-- the crossbar, running through A and I like the classic circle-A -->
+    <path d="M 60 336 L 460 336"/>
+  </g>
+</svg>
